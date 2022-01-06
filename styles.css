@@ -1,0 +1,102 @@
+body{
+  text-align: center;
+}
+
+h1,h2{
+    line-height: 3rem;
+    font-family: 'Fredoka One', cursive;
+    width:65%;
+    margin: 5px auto;
+}
+
+.top-banner{
+  padding: 2px 2%;
+  text-align: left;
+}
+
+#heading{
+  background-color: #AEFEFF;
+  position: relative;
+  z-index: -1;
+  padding: 10px;
+}
+
+.ruler{
+   transform: rotate(45deg);
+   z-index: -1;
+   position: absolute;
+   width: 500px;
+   right: 20px;
+}
+
+#qualifications{
+  background-color: white;
+  padding: 10px;
+}
+
+.q-table{
+  padding: 10px 0;
+}
+
+#my-skills{
+    background-color: #AEFEFF;
+    padding: 20px;
+}
+
+.skills-text{
+  padding: 15px;
+}
+
+.languages{
+  margin: 20px auto;
+}
+
+.logo-div{
+  padding: 20px 0px;
+}
+
+.logo{
+  font-size: 3.2rem;
+  color: #0F0E0E;
+}
+
+.logo:hover{
+  color: #FF7F3F;
+}
+
+#carousel{
+  background-color: #AEFEFF;
+}
+
+.profile-img{
+  width: 190px;
+  padding: 5px 0px 20px;
+}
+
+.car{
+  height: 500px;
+  padding-top: 3%;
+}
+
+p{
+  font-size: 1.5rem;
+}
+
+.car2{
+  height: 500px;
+  padding-top: 15%;
+}
+
+#contact-me{
+  background-color: black;
+  height:150px;
+  padding-top: 20px;
+}
+
+.light-footer{
+  color:white;
+}
+
+.footer-button{
+  margin: 10px 15px ;
+}
